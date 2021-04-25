@@ -1,4 +1,4 @@
-<pre>my_crd:
+my_crd:
 implementation of a map with insertion, deletion and lookup method.
 
 INSERTION: if the key exists, the value is updated
@@ -14,5 +14,4 @@ Format: \<key\>
 output: \<value\> or -1 if the key does not exist
 
 The program display -1 on errors
-</pre>
 
